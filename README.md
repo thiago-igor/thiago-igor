@@ -1,4 +1,4 @@
-### Hello, I'm thiago-igor 👋
+### Olá, eu sou thiago-igor 👋
 
 - 👨‍💻 Estudante do IFCE em Ciência da Computação.
 
