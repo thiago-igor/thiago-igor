@@ -1,6 +1,6 @@
 ### Olá, eu sou thiago-igor 👋
 
-- 👨‍💻 Estudante do IFCE em Ciência da Computação.
+- 👨‍💻 Desenvolvedor.
 
 <div align="center">
   <a href="https://github.com/thiago-igor">
